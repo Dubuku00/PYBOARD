@@ -28,6 +28,6 @@ while boo:
       
       pStep.forward_rot(TD, 0)
       pStep.backward_rot(TD, 0)
-	  pStep.Uturn_rot(TD)
+      pStep.Uturn_rot(TD)
       pStep.clear_all()
       
